@@ -2,7 +2,7 @@
 
 ### My stats 📊
 [![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-08&show_icons=true&hide=stars&theme=dark)][stats]
-[![Mohan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-08&layout=compact&langs_count=6&hide=css,html&theme=dark)][langs]
+[![Mohan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-08&layout=compact&langs_count=6&hide=css,html,"Jupyter Notebook"&theme=dark)][langs]
 
 <!-- link references -->
 [stats]: https://github.com/anuraghazra/github-readme-stats#github-stats-card

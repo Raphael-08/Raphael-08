@@ -1,7 +1,7 @@
 ### Hi there 👋  I’m Mohan Ranganath Varma
 
 ### My GitHub stats 📊
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-08&show_icons=true&custom_title=Mohan's%20GitHub%20Stats&hide=stars&theme=dark)][stats]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-08&show_icons=true&custom_title=My%20GitHub%20Stats&hide=stars&theme=dark)][stats]
 [![Mohan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-08&layout=compact&langs_count=6&hide=shell,Jupyter%20Notebook&theme=dark)][langs]
 
 <!-- link references -->
